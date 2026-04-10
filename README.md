@@ -12,7 +12,7 @@ Create visualizations that convey a compelling story.
 - Sales increased over time
 
 ## Files
-# Report PDF
+# Report PDF:[DATA VISUALIZATION AND STORYTELLING REPORT.pdf](https://github.com/user-attachments/files/26635375/DATA.VISUALIZATION.AND.STORYTELLING.REPORT.pdf)
 # Dashboard screenshots:<img width="1918" height="975" alt="Image" src="https://github.com/user-attachments/assets/94db80a8-a2ee-4d2b-b08f-e9e54984b1bb" />
 # data-visualization-project-in-power--bi
 Sales Performance Analysis Dashboard
